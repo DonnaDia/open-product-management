@@ -36,7 +36,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     
     ✅ [User Experience](#user-experience)
     
-    ⏳ [Give and Receive Feedback](#give-and-receive-feedback)
+    ✅ [Give and Receive Feedback](#give-and-receive-feedback)
     - [Shipping and Measuring Products](#shipping-and-measuring-products)
     - [Organizing your Team](#organizing-your-team)
     - [Become the Best in the Field](#become-the-best-in-the-field)
@@ -206,8 +206,10 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
 ## Give and Receive Feedback
 ✅ [You won’t regret positive feedback](http://zachholman.com/posts/positive-feedback/) - Zack Holman
-- [ ] [Thirty percent feedback](http://blog.42floors.com/thirty-percent-feedback/) - Jason Freedman
-- [ ] [How to run a design critique](http://scottberkun.com/essays/23-how-to-run-a-design-critique/) - Scott Berkun
+
+✅ [Thirty percent feedback](https://42floors.com/blog/startups/thirty-percent-feedback) - Jason Freedman
+
+✅ [How to run a design critique](http://scottberkun.com/essays/23-how-to-run-a-design-critique/) - Scott Berkun
 
 ## Shipping and Measuring Products
 - [ ] [Shipping is a feature](http://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/) - Steven Sinofsky
