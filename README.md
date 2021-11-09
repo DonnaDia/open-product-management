@@ -26,7 +26,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     
     ✅ [Becoming a Product Guru](#becoming-a-product-guru)
     
-    ⏳ [Building Great Products](#building-great-products)
+    ✅ [Building Great Products](#building-great-products)
     - [Get out of the building](#get-out-of-the-building)
     
     ✅ [All about those Requirements](#all-about-those-requirements)
@@ -136,12 +136,18 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
 ## Building Great Products
 ✅ [How to build great products](http://www.defmacro.org/2013/09/26/products.html) - Slava Akhmechet
-- [ ] [Make things as simple as possible but not simpler](http://blog.adamnash.com/2013/09/25/make-things-as-simple-as-possible-but-not-simpler/) - Adam Nash
-- [ ] [10 essential steps to create products that customer love](http://welovelean.wordpress.com/2013/07/06/10-essential-steps-to-create-products-that-customers-love/) - Laurence McCahill
-- [ ] [The power of the perfect slice](http://www.mindtheproduct.com/2013/03/the-power-of-the-perfect-slice/) - Alastair Lee
-- [ ] [Ten principles on the journey to building great products](http://www.forbes.com/sites/avidlarizadeh/2014/05/23/ten-principles-on-the-journey-to-building-great-products/) - Avid Larizadeh
-- [ ] [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - Julie Zhuo
-- [ ] [How to build products users love](http://startupclass.samaltman.com/courses/lec07/) - Kevin Hale
+
+✅ [Make things as simple as possible but not simpler](http://blog.adamnash.com/2013/09/25/make-things-as-simple-as-possible-but-not-simpler/) - Adam Nash
+
+✅ [10 essential steps to create products that customer love](http://welovelean.wordpress.com/2013/07/06/10-essential-steps-to-create-products-that-customers-love/) - Laurence McCahill
+
+✅ [The power of the perfect slice](http://www.mindtheproduct.com/2013/03/the-power-of-the-perfect-slice/) - Alastair Lee
+
+✅ [Ten principles on the journey to building great products](http://www.forbes.com/sites/avidlarizadeh/2014/05/23/ten-principles-on-the-journey-to-building-great-products/) - Avid Larizadeh
+
+✅ [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - Julie Zhuo
+
+✅ [How to build products users love](http://startupclass.samaltman.com/courses/lec07/) - Kevin Hale
 
 ## Get Out Of The Building
 - [ ] [How to Listen to Customers](https://www.kennorton.com/essays/how-to-listen-to-customers.html) - Kenneth Norton
