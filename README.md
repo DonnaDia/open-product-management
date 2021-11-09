@@ -26,7 +26,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     
     ✅ [Becoming a Product Guru](#becoming-a-product-guru)
     
-    ⏳ [Building Great Products](#building-great-products)
+    ✅ [Building Great Products](#building-great-products)
     - [Get out of the building](#get-out-of-the-building)
     
     ✅ [All about those Requirements](#all-about-those-requirements)
@@ -146,7 +146,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 ✅ [Ten principles on the journey to building great products](http://www.forbes.com/sites/avidlarizadeh/2014/05/23/ten-principles-on-the-journey-to-building-great-products/) - Avid Larizadeh
 
 ✅ [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - Julie Zhuo
-- [ ] [How to build products users love](http://startupclass.samaltman.com/courses/lec07/) - Kevin Hale
+
+✅ [How to build products users love](http://startupclass.samaltman.com/courses/lec07/) - Kevin Hale
 
 ## Get Out Of The Building
 - [ ] [How to Listen to Customers](https://www.kennorton.com/essays/how-to-listen-to-customers.html) - Kenneth Norton
