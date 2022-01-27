@@ -27,7 +27,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     ✅ [Becoming a Product Guru](#becoming-a-product-guru)
     
     ✅ [Building Great Products](#building-great-products)
-    - [Get out of the building](#get-out-of-the-building)
+
+    ⏳ [Get out of the building](#get-out-of-the-building)
     
     ✅ [All about those Requirements](#all-about-those-requirements)
     - [Roadmaps, Planning, and prioritization](#roadmaps,-planning,-and-prioritization)
@@ -150,7 +151,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 ✅ [How to build products users love](http://startupclass.samaltman.com/courses/lec07/) - Kevin Hale
 
 ## Get Out Of The Building
-- [ ] [How to Listen to Customers](https://www.kennorton.com/essays/how-to-listen-to-customers.html) - Kenneth Norton
+✅ [How to Listen to Customers](https://www.kennorton.com/essays/how-to-listen-to-customers.html) - Kenneth Norton
 - [ ] [How do Customer Development and Product Management fit together](http://www.cindyalvarez.com/lean/how-do-customer-development-and-product-management-fit-together-2014) - Cindy Alvarez
 - [ ] [How to structure and get the most out of customer development interviews](http://jasonevanish.com/2012/01/18/how-to-structure-and-get-the-most-out-of-customer-development-interviews/) - Jason Evanish
 - [ ] [The customer is always right. Except when they aren’t](http://wadefoster.net/post/57403834478/the-customer-is-always-right-except-when-they-arent) - Wade Foster
