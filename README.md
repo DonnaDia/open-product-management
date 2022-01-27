@@ -27,7 +27,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     ✅ [Becoming a Product Guru](#becoming-a-product-guru)
     
     ✅ [Building Great Products](#building-great-products)
-    - [Get out of the building](#get-out-of-the-building)
+
+    ⏳ [Get out of the building](#get-out-of-the-building)
     
     ✅ [All about those Requirements](#all-about-those-requirements)
     - [Roadmaps, Planning, and prioritization](#roadmaps,-planning,-and-prioritization)
@@ -150,7 +151,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 ✅ [How to build products users love](http://startupclass.samaltman.com/courses/lec07/) - Kevin Hale
 
 ## Get Out Of The Building
-- [ ] [How to Listen to Customers](https://www.kennorton.com/essays/how-to-listen-to-customers.html) - Kenneth Norton
+✅ [How to Listen to Customers](https://www.kennorton.com/essays/how-to-listen-to-customers.html) - Kenneth Norton
 - [ ] [How do Customer Development and Product Management fit together](http://www.cindyalvarez.com/lean/how-do-customer-development-and-product-management-fit-together-2014) - Cindy Alvarez
 - [ ] [How to structure and get the most out of customer development interviews](http://jasonevanish.com/2012/01/18/how-to-structure-and-get-the-most-out-of-customer-development-interviews/) - Jason Evanish
 - [ ] [The customer is always right. Except when they aren’t](http://wadefoster.net/post/57403834478/the-customer-is-always-right-except-when-they-arent) - Wade Foster
@@ -194,8 +195,10 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [The care and feeding of software engineers](http://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/) - Nicholas C. Zakas
 
 ✅ [The ten project management commandments](http://www.defmacro.org/2013/06/03/engineering-commandments.html) - Slava Akhmechet
-- [ ] [How to work with PMs](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-pms-3e852d5eccf5) - Julie Zhuo
-- [ ] [How to work with engineers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-engineers-a3163ff1eced) - Julie Zhuo
+
+✅ [How to work with PMs](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-pms-3e852d5eccf5) - Julie Zhuo
+
+✅ [How to work with engineers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-engineers-a3163ff1eced) - Julie Zhuo
 - [ ] [How to work with software engineers](https://www.kennethnorton.com/essays/how-to-work-with-software-engineers.html) - Kenneth Norton
 - [ ] [The Iceberg Secret, revealed](http://www.joelonsoftware.com/articles/fog0000000356.html) - Joel Spolsky
 - [ ] [Leading cross-functional teams](https://www.kennethnorton.com/essays/leading-cross-functional-teams.html) - Kenneth Norton
