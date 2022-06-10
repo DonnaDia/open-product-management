@@ -19,25 +19,13 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
 ## Content
 - [Core 1: Product Management](#core-1-product-management)
-    
-    ✅ [What is Product Management](#what-is-product-management)
-    
-    ✅ [Is it really for you?](#is-it-really-for-you)
-    
-    ✅ [Becoming a Product Guru](#becoming-a-product-guru)
-    
-    ✅ [Building Great Products](#building-great-products)
 
     ⏳ [Get out of the building](#get-out-of-the-building)
-    
-    ✅ [All about those Requirements](#all-about-those-requirements)
+
     - [Roadmaps, Planning, and prioritization](#roadmaps,-planning,-and-prioritization)
     
     ⏳ [How to work with X](#how-to-work-with-x)
-    
-    ✅ [User Experience](#user-experience)
-    
-    ✅ [Give and Receive Feedback](#give-and-receive-feedback)
+
     - [Shipping and Measuring Products](#shipping-and-measuring-products)
     - [Organizing your Team](#organizing-your-team)
     - [Become the Best in the Field](#become-the-best-in-the-field)
@@ -79,27 +67,6 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [License](#license)
 
 # Core 1: Product Management
-## What Is Product Management?
-
-✅ [What exactly is a Product Manager? ](http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/) - Martin Eriksonn
-
-✅ [What is Product Management?](http://www.sachinrekhi.com/blog/2013/01/28/what-is-product-management) - Sachin Rekhi
-
-✅ [Product Manager You Are…](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
-
-✅ [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
-
-✅ [Product Management vs. Product Marketing](http://www.svproduct.com/product-management-vs-product-marketing/) - Marty Cagan
-
-✅ [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
-
-✅ [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
-
-✅ [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell (Student presentation)
-
-✅ [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
-
-✅ [A Day in the Life of a Product Manager: Consumer and Enterprise](https://blog.tryexponent.com/day-in-life-pm/) - Kevin Wei
 
 ## Is It Really For You?
 
